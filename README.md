@@ -22,7 +22,7 @@ mvn spring-boot:run
 
 ## How to use
 On a home page you will see something like this:  
-![Oops!](img1.png)  
+<kbd>![Oops!](img1.png)</kbd>  
 You can fill from with device ID and value and press Send. It will send data you entered to server.  
 Then it will save that data to database and push event to all active clients.  
 On the same page you will see results on table and chart.  
